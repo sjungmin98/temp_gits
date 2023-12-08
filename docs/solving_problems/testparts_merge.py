@@ -1,5 +1,6 @@
 
 # B
-# AA
+# A
 
 print("A")
+print("B")
